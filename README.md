@@ -39,8 +39,6 @@ Welcome to **Tasky**, your ultimate event and project management app designed to
 - **Customizable Notifications**: Set reminders and notifications to stay on top of your commitments.
 - **Seamless Synchronization**: Sync your data across multiple devices to access your schedule wherever you are.
 
-![Account Management](path/to/account-management-image.jpg)
-
 ## Future Plans
 
 We’re excited to bring new features to **Tasky** to enhance your scheduling experience, including:
