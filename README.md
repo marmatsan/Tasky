@@ -45,7 +45,6 @@ We’re excited to bring new features to **Tasky** to enhance your scheduling ex
 
 - **Advanced Collaboration Tools**: Collaborate more effectively with integrated task management and shared project spaces.
 - **Smart Scheduling**: Utilize AI to suggest optimal times for meetings and events based on participant availability.
-- **Enhanced Data Security**: Implement advanced security measures to protect your data and ensure your information remains confidential.
 - **Customizable Themes**: Personalize your Tasky experience with a variety of themes and layout options.
 
 ---
